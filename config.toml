@@ -1,0 +1,88 @@
+baseURL = "http://example.org/"
+languageCode = "en-uk"
+title = "June Sallou"
+theme = "nix"
+
+[params]
+  Name = "June Sallou"
+  HeaderUsername = "June"
+  HeaderHostname = "Sallou"
+  About = "PhD Student. I'm working on using modelling for decision making and risk assessment applied to hydrological simulation and flood study. I aim at helping scientists develop and explore their simulation models thanks to specific SE techniques and programming languages. #SE4Science"
+  ProfilePicture = "http://www.diverse-team.fr/img/team/June.png"
+  #BitbucketID = "your_bitbucket_id"
+  #CodepenID = "your_codepen"
+  CvURL = "your_cv_url"
+  Email = "june.benvegnu-sallou@univ-rennes1.fr"
+  #FacebookID = "your_facebook"
+  GithubID = "Jnsll"
+  #GitlabId = "your_gitlab"
+  #GnuPGFingerprint = "your_gpg_fingerprint"
+  #GoogleAnalytics = "your_google_analytics_id"
+  #GoogleplusID = "your_googleplus"
+  #InstagramID = "your_instagram"
+  LinkedInID = "june-sallou/?locale=en_US"
+  MastodonURL = "https://mastodon.social/web/accounts/38692"
+  #Mobile = "+1-201-555-0123"
+  #PayPalMeID = "https://www.paypal.me/..."
+  #Phone = "+33-----"
+  #RedditID = "your_reddit"
+  #SlackURL = "https://join.slack.com/..."
+  #StackExchangeID = "your_stackexchange_id"
+  #StackOverflowID = "your_stackoverflow_id"
+  #TelegramID = "your_telegram"
+  TwitterID = "jnsll_"
+  #XingURL = "https://www.xing.com/profile/..."
+
+[menu]
+  [[menu.header]]
+    identifier = "posts"
+    name = "~/posts"
+    weight = 6
+    url = "/posts"
+  [[menu.header]]
+    parent = "posts"
+    name = "All Posts"
+    url = "/posts"
+  [[menu.header]]
+    parent = "posts"
+    name = "categories"
+    url = "/categories"
+  [[menu.header]]
+    parent = "posts"
+    name = "tags"
+    url = "/tags"
+  [[menu.header]]
+    identifier = "projects"
+    name = "~/projects"
+    weight = 5
+    url = "/projects"
+  [[menu.header]]
+    parent = "projects"
+    name = "Side projects"
+    url = "/projects/side_projects"
+  [[menu.header]]
+    identifier = "publis"
+    name = "publications"
+    weight = 2
+    url = "/publis"
+  [[menu.header]]
+    identifier = "research"
+    name = "Research"
+    weight = 1
+    url = "/research/research"
+  [[menu.header]]
+    identifier = "CV"
+    name = "CV"
+    weight = 8
+    url = "/CV/CV"
+  [[menu.header]]
+    identifier = "teaching"
+    name = "teaching"
+    weight = 3
+    url = "/teaching/teaching"
+ [[menu.header]]
+    identifier = "contact"
+    name = "contact"
+    weight = 10
+    url = "/contact/contact"
+
