@@ -45,6 +45,7 @@ Local association of around 10 to 15 members.
 **Rotaract France**
 
 - Website Manager (July 2018-July 2019)
+
     - Managing article publications
 
     - Managing the information updates
