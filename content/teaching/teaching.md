@@ -9,7 +9,7 @@ I have the chance to be an teaching assistant at the University of Rennes 1 (IST
 | Module                                        | Level              | Year                | Type             | Load     |
 |-----------------------------------------------|--------------------|---------------------|------------------|----------|
 | Scientific Modelling                          | Master Degree (M2) | 2019-2020           | Courses and Labs | 12h      |
-| Distributed Information Systems (SIR)         | Master Degree (M2) | 2018-2019           | Labs             |          |
+| Distributed Information Systems (SIR)         | Master Degree (M2) | 2018-2019;2019-2020 | Labs             | 50h; 10h |
 | Software Architecture & Web Development (TAA) | Master Degree (M2) | 2018-2019           | Labs             |          |
-| Analysis and Object-Oriented Design (ACO)     | Master Degree (M1) | 2018-2019 2019-2020 | Labs             |  14h 28h |
+| Analysis and Object-Oriented Design (ACO)     | Master Degree (M1) | 2018-2019;2019-2020 | Labs             | 14h; 28h |
 
